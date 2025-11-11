@@ -20,5 +20,3 @@ This Arduino project displays messages on a 16x2 LCD based on user commands sent
 | WELCOME | Displays "WELCOME USER!" |
 | CLEAR | Clears the display |
 
-## Author
-Created by [Banty Kumar]
