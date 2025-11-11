@@ -21,4 +21,4 @@ This Arduino project displays messages on a 16x2 LCD based on user commands sent
 | CLEAR | Clears the display |
 
 ## Author
-Created by [Your Name]
+Created by [Banty Kumar]
